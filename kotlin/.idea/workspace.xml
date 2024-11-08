@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6e8823-1b8e-470c-964d-f578161f0788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/warmup/03-compare-the-triplets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/warmup/04-a-very-big-sum.kt.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -37,6 +37,7 @@
     "Kotlin._01_solve_me_firstKt.executor": "Run",
     "Kotlin._02_simple_array_sum_ktKt.executor": "Run",
     "Kotlin._03_compare_the_tripletsKt.executor": "Run",
+    "Kotlin._04_a_very_big_sum_ktKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
