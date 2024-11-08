@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6e8823-1b8e-470c-964d-f578161f0788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/subdomain04Sorting/01-tutorial-intro.kt.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin._01_solve_me_firstKt.executor": "Run",
+    "Kotlin._01_tutorial_intro_ktKt.executor": "Run",
     "Kotlin._02_simple_array_sum_ktKt.executor": "Run",
     "Kotlin._03_compare_the_tripletsKt.executor": "Run",
     "Kotlin._04_a_very_big_sum_ktKt.executor": "Run",
