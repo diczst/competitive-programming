@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a6e8823-1b8e-470c-964d-f578161f0788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/warmup/04-a-very-big-sum.kt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup/01-solve-me-first.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subdomain01Warmup/01-solve-me-first.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup/02-simple-array-sum.kt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subdomain01Warmup/02-simple-array-sum.kt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup/03-compare-the-triplets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subdomain01Warmup/03-compare-the-triplets.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/warmup/04-a-very-big-sum.kt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Subdomain01Warmup/04-a-very-big-sum.kt.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="_01_solve_me_firstKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="warmup._01_solve_me_firstKt" />
+      <option name="MAIN_CLASS_NAME" value="Subdomain01Warmup._01_solve_me_firstKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
